@@ -1,0 +1,34 @@
+.container{
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+.carousel-item{
+    background-color: white;
+}
+.buy-now-btn{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.smartphone{
+    margin-bottom: 50px;
+    margin-left: 100px;
+}
+.see-all{
+    color: blueviolet;
+    margin-right: 100px;
+}
+.card-footer{
+    text-align: center;
+    background-color: white;
+    border: none;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px gray;
+    border-radius:50px;
+}
+.cat{
+    text-align: center;
+    text-underline-position: below;
+}
